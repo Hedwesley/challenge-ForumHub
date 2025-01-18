@@ -130,13 +130,6 @@ Para realizar todas as funcionalidades presentes na API basta acessar os seguint
 
 As especificações sobre os dados que são passados e recebidos por cada endpoint estão presentes na documentação do swagger.
 
-## Contribuição
-Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
-1. Faça um fork do repositório.
-2. Crie uma branch para sua funcionalidade/bugfix: `git checkout -b minha-feature`.
-3. Envie suas modificações: `git push origin minha-feature`.
-4. Abra um pull request.
-
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
